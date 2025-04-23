@@ -5,6 +5,7 @@
 To write a html webpage page to display your slot timetable.
 
 ## ALGORITHM
+
 ### STEP 1
 Create a Django-admin Interface.
 
@@ -24,6 +25,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+
 ```
 <html>
 <head>
@@ -123,9 +125,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![Screenshot 2025-04-11 093856](https://github.com/user-attachments/assets/fa37316e-701e-4590-9d0b-24a46cf7b0e6)
-![Screenshot 2025-04-11 093810](https://github.com/user-attachments/assets/3a72014c-4a68-4378-ab3e-0937f7eeb3f8)
 
+![output](<Screenshot 2025-04-11 093810.png>)
 
 
 
